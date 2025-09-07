@@ -44,15 +44,13 @@ The goal of the project is to build a **scalable big data pipeline** for process
 
 ---
 
-### Hive Query Examples
-![Hive Query 1](Apache Hive/Create database using PuTTY.png)
+## 📸 Screenshots and Dashboard
 
-### Pig Data Cleaning
-![Pig Script](pig_screenshots/pig_cleaning.png)
+You can view the full set of screenshots in the repository folders:
 
-### Power BI Dashboards
-![Weather Trends](dashboard_screenshots/weather_patterns.png)
-![Air Quality](dashboard_screenshots/air_quality.png)
-![UV & Visibility](dashboard_screenshots/uv_visibility.png)
+- **HCatalog** – available in the `Apache HCatalog/` folder  
+- **Hive Data Cleaning and Processing** – available in the `Apache Hive/` folder  
+- **Pig Scripts** – available in the `Apache Pig/` folder  
+- **Power BI Dashboards Scrrenshots** – available in the `Dashboard/` folder  
 
----
+The interactive Power BI file (`dashboard.pbix`) is also included in the repository for direct exploration.
