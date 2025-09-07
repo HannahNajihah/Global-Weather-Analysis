@@ -45,7 +45,6 @@ The goal of the project is to build a **scalable big data pipeline** for process
 ---
 
 ### Hive Query Examples
-![Hive Query 1](C:\Users\user\Documents\PORTFOLIO_HANNAHNAJIHAH\Big Data Weather and Air Quality Analytics with Hadoop Ecosystem and Power BI\Apache Hive\air_quality_data_analysis table.png)
 ![Hive Query 1](Apache Hive/Create database using PuTTY.png)
 
 ### Pig Data Cleaning
