@@ -44,15 +44,16 @@ The goal of the project is to build a **scalable big data pipeline** for process
 
 ---
 
-## 📊 Example Dashboards
+### Hive Query Examples
+![Hive Query 1](C:\Users\user\Documents\PORTFOLIO_HANNAHNAJIHAH\Big Data Weather and Air Quality Analytics with Hadoop Ecosystem and Power BI\Apache Hive\air_quality_data_analysis table.png)
+![Hive Query 1](Apache Hive/Create database using PuTTY.png)
 
-### Weather Patterns and Trends
-![Weather Trends](screenshots/weather_patterns.png)
+### Pig Data Cleaning
+![Pig Script](pig_screenshots/pig_cleaning.png)
 
-### Air Quality and Pollution Analysis
-![Air Quality](screenshots/air_quality_analysis.png)
-
-### Visibility and UV Index
-![UV and Visibility](screenshots/uv_visibility.png)
+### Power BI Dashboards
+![Weather Trends](dashboard_screenshots/weather_patterns.png)
+![Air Quality](dashboard_screenshots/air_quality.png)
+![UV & Visibility](dashboard_screenshots/uv_visibility.png)
 
 ---
